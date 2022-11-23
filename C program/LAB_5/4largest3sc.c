@@ -27,6 +27,6 @@
         if((c>a)&&(c>b))
 
         {
-            printf("the given number %d is largest than %d and %d",c,a,b);
+            printf("the given  %d is largest than %d and %d",c,a,b);
         }
 }
