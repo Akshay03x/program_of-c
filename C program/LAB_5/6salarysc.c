@@ -4,7 +4,7 @@
 
         float bs,hra,da,gs;
 
-        printf("enter your basic salary:");
+        printf("enter salary:");
         scanf("%f",&bs);
 
         if((bs>=10000)&&(bs<20000))
